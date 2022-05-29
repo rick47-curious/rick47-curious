@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently working as a QA autoamtion Engineer
+🌱 I’m currently working as a QA automation Engineer
 
 👯 I’m looking to collaborate on web automation & web developement projects
 
