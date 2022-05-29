@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I’m currently working as a QA autoamtion Engineer
+
+👯 I’m looking to collaborate on web automation & web developement projects
+
+📫 Feel free to reach me - anuplab.ck@gmail.com
 <!--
 **rick47-curious/rick47-curious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
