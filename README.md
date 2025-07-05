@@ -2,6 +2,8 @@
 
 🌱 I’m currently working as a QA automation Engineer
 
+🔭 I have experience to work on both full stack web development (MERN) and QA automation areas. 
+
 👯 I’m looking to collaborate on web automation & web developement projects
 
 📫 Feel free to reach me - anuplab.ck@gmail.com
